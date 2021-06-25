@@ -1,0 +1,23 @@
+html * {
+    font-family: "sans-serif";
+}
+
+th {
+    text-align: left;
+    color: white;
+    background-color: black;
+}
+
+.productPrice {
+    text-align: right;
+}
+
+.productTotalCost {
+    text-align: right;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid #888;
+    padding: 10px;
+}
